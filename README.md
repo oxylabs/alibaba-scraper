@@ -20,7 +20,7 @@ from pprint import pprint
 
 # Structure payload.
 payload = {
-    'source': 'universal_ecommerce',
+    'source': 'universal',
     'url': 'https://www.alibaba.com/trade/search?spm=a2700.galleryofferlist.pagemodule_fy23_pc_search_bar.keydown__enter&tab=all&searchtext=phone'
 }
 
