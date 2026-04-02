@@ -54,4 +54,4 @@ Find code examples for other programming languages [**here**](https://github.com
   ]
 }
 ```
-With our Alibaba Scraper, you can seamlessly pull public data from any Alibaba web page. Gather essential clothing information, such as fabric, styles, price, and customer reviews, to understand the fashion industry trends and outpace your competitors. If you encounter any issues, reach out to our support team through live chat or email us at hello@oxylabs.io.
+With our Alibaba Scraper, you can seamlessly pull public data from any Alibaba web page. Gather essential clothing information, such as fabric, styles, price, and customer reviews, to understand the fashion industry trends and outpace your competitors. If you encounter any issues, reach out to our support team through live chat or email us at support@oxylabs.io.
