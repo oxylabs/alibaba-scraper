@@ -1,6 +1,6 @@
 # Alibaba Scraper API
 
-[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=alibaba-scraper-github&transaction_id=102f49063ab94276ae8f116d224b67)
+[![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=github&utm_medium=referral&utm_content=alibaba-scraper&utm_campaign=banner&groupid=877)
 
 <p align="left">
   <a href="https://dashboard.oxylabs.io"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Get_Started-FF6B35?style=for-the-badge" alt="Get started"></a>
@@ -10,7 +10,7 @@
   <a href="https://www.youtube.com/@oxylabs"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_YouTube-FF0000?style=for-the-badge" alt="YouTube"></a>
 </p>
 
-Oxylabs' [Alibaba Scraper](https://oxylabs.io/products/scraper-api/ecommerce/alibaba?utm_source=github&utm_medium=repositories&utm_campaign=product) (a part of Web Scraper API) is a data gathering solution allowing you to extract real-time information from an Alibaba website effortlessly. This brief guide showcases how Alibaba Scraper works, along with code examples to help you better understand how to use it hassle-free.
+Oxylabs' [Alibaba Scraper](https://oxylabs.io/products/scraper-api/ecommerce/alibaba?utm_source=github&utm_medium=referral&utm_content=alibaba-scraper&groupid=877) (a part of Web Scraper API) is a data gathering solution allowing you to extract real-time information from an Alibaba website effortlessly. This brief guide showcases how Alibaba Scraper works, along with code examples to help you better understand how to use it hassle-free.
 
 ### How it works
 
